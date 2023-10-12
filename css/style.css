@@ -15,4 +15,5 @@
 #piano {
   width: 70vw;
   height: 50vh;
+  border: solid 2px;
 }
