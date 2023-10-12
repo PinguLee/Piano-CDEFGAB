@@ -1,4 +1,4 @@
-const canvas = document.getElementById('canvas');
+const canvas = document.getElementById('piano');
 const ctx = canvas.getContext('2d');
 
 for ( let i = 0; i < 7; i++){
