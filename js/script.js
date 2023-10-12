@@ -5,6 +5,6 @@ for ( let i = 0; i < 7; i++){
     ctx.fillRect(i*50, 50, 50, 300);
 }
 
-canvas.addEventListener('click',(e)=>{
+ctx.addEventListener('click',(e)=>{
     console.log(e);
 })
